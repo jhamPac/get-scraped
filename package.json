@@ -1,0 +1,20 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "Simple Nodejs web crawler 🕷",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhamPac/get-scraped.git"
+  },
+  "keywords": [],
+  "author": "Kevia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhamPac/get-scraped/issues"
+  },
+  "homepage": "https://github.com/jhamPac/get-scraped#readme"
+}
