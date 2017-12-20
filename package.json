@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jhamPac/get-scraped/issues"
   },
-  "homepage": "https://github.com/jhamPac/get-scraped#readme"
+  "homepage": "https://github.com/jhamPac/get-scraped#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chalk": "^2.3.0",
+    "cheerio": "^1.0.0-rc.2",
+    "yargs": "^10.0.3"
+  }
 }
